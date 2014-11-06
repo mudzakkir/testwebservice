@@ -1,0 +1,5 @@
+C:\TohaDoc\Sinau\WebService\FirstWebService\FirstWebService\bin\FirstWebService.dll
+C:\TohaDoc\Sinau\WebService\FirstWebService\FirstWebService\bin\FirstWebService.pdb
+C:\TohaDoc\Sinau\WebService\FirstWebService\FirstWebService\obj\Debug\ResolveAssemblyReference.cache
+C:\TohaDoc\Sinau\WebService\FirstWebService\FirstWebService\obj\Debug\FirstWebService.dll
+C:\TohaDoc\Sinau\WebService\FirstWebService\FirstWebService\obj\Debug\FirstWebService.pdb
