@@ -29,7 +29,7 @@ namespace FirstWebService
             var ObjSumClass = new SumClass { First = Num1, Second = Num2 };
             var ObjSerializer = new JavaScriptSerializer();
             var JsonStr = ObjSerializer.Serialize(ObjSumClass);
-            divSumThroughJson.InnerHtml = ServiceReferenceMyService.GetSumThroughObject1(JsonStr).Sum.ToString();  
+            divSumThroughJson.InnerHtml = new ServiceReferenceMyService.MyServiceSoapClient().SumOfNums1(JsonStr).Sum.ToString();  
        
         }   
     }
